@@ -2,7 +2,7 @@ Halo semua!
 ==
 Perkenalkan nama saya **Syahrul Romadon**
 --
-Saya seorang **Cohort Android Developer** di [BangkitAcademy](https://www.bangkit.com)
+Saya seorang **Siswa Android Developer** di [BangkitAcademy](https://www.bangkit.com)
 
 saya Mahasiswa dari [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js)
 
