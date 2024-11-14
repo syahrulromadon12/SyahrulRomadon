@@ -2,9 +2,9 @@ Halo semua!
 ==
 Perkenalkan nama saya **Syahrul Romadon**
 --
-Saya seorang **Siswa Android learning path** di [BangkitAcademy](https://www.bangkit.com)
+Saya **Alumni Android learning path** di [BangkitAcademy](https://www.bangkit.com)
 
-saya Mahasiswa dari [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js)
+Dan Mahasiswa dari [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js)
 
 <p align="left">
 <a href="https://github.com/syahrulromadon12">
